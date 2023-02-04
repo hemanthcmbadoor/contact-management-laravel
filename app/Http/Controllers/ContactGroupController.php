@@ -16,6 +16,7 @@ class ContactGroupController extends Controller
     public function index()
     {
         return ContactGroup::all();
+        //hai
     }
 
     /**
